@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-egfig3.asiabola110.xyz/sitemap.xml
